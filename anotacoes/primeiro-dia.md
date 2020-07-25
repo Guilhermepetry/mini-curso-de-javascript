@@ -12,14 +12,14 @@ const title = document.querySelector('h1')
 title.textContent = 'Mudando!'
 ```
 
-Como **criar** e **inserir** um elemento, usando o `appendChild` na DOM:
+Como **criar** e **inserir** um elemento, usando o `appendChild`, na DOM:
 ```javascript
 const title = document.createElement('h1')
 title.textContent = "Dificuldade"
 root.appendChild(title)
 ```
 \
-Refatorando e reaproveitando o código, usando `função`:
+Refatorando para o reaproveitamento de código, usando `função`:
 ```javascript
 const root = document.querySelector('#root')
 

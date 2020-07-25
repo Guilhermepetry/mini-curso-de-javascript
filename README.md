@@ -6,3 +6,6 @@ Ministrado por **Marco Bruno** na [Twitch](https://www.twitch.tv/marcobrunodev).
 * [1º Dia](./anotacoes/primeiro-dia.md)
 
 * [2º Dia](./anotacoes/segundo-dia.md)
+
+* [3º Dia](./anotacoes/terceiro-dia.md)
+  

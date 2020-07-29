@@ -2,7 +2,7 @@
 
 ## 2º Dia 
 
-O que é uma **Array**?
+O que é um **Array**?
 
 O Array é um variável que guarda uma lista de elementos.
 ```javascript
